@@ -25,10 +25,6 @@ Built with:
 - Get All Transactions
 
 ---
-
-## 📂 Folder Structure
-
-
 ---
 
 ## 📂 Folder Structure
