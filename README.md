@@ -1,7 +1,3 @@
-
-# 📘 BACKEND README.md
-
-```markdown
 # 💰 Personal Expense & Income Tracker – Backend
 
 Backend API for the Personal Expense & Income Tracker assignment.
@@ -27,6 +23,11 @@ Built with:
 - Update Transaction (Owner Protected)
 - Delete Transaction (Owner Protected)
 - Get All Transactions
+
+---
+
+## 📂 Folder Structure
+
 
 ---
 
